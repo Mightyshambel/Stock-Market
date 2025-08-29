@@ -8,3 +8,4 @@ msft_data = msft.history(period="max")
 
 # Display the first 5 rows
 print(msft_data.head())
+print("The headers of each column")
